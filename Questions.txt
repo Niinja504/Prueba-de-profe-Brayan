@@ -1,0 +1,18 @@
+1. ¿Qué es el Android Manifest?
+R//Es un archivo XML
+
+2. ¿En qué carpeta se almacenan las imágenes de un proyecto Android?
+R//drawable
+
+3. ¿En qué carpeta se almacenan los archivos de código de un proyecto Android?
+R//Kotlin+Java
+
+4. ¿Qué es una Activity?
+R// Es una pantalla
+
+5. ¿Cual es la diferencia entre una Activity y un Fragment? 
+R// La activity es una pantalla completa y el fragment solo es un pequeño fragmento de la pantalla.
+
+6. ¿Cómo se llama la función o método que se ejecuta cuando iniciamos la
+aplicación?
+R// Oncreate
