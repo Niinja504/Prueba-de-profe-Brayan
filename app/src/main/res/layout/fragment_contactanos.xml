@@ -26,6 +26,8 @@
         android:layout_height="62dp"
         android:layout_marginStart="148dp"
         android:layout_marginTop="292dp"
+        android:background="#094E85"
+        android:backgroundTint="#16354E"
         android:text="Presione"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
